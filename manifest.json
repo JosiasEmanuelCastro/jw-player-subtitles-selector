@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "JW Player Subtitles Selector",
+  "version": "1.0",
+  "description": "Enhance your movie streaming experience by enabling text selection on video streaming sites that utilize the JW Player.",
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": [ "client.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+    }
+  ],
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "unlimitedStorage",
+    "webRequest",
+    "webRequestBlocking",
+    "tabs",
+    "<all_urls>"
+  ]
+}
