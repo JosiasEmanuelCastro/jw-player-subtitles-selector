@@ -5,7 +5,9 @@
 ![demo](https://raw.githubusercontent.com/iJosiasCastro/jw-player-subtitles-selector/main/demo/screenshot.png)
 
 **Version:** 1.0  
-**Description:** Enhance your movie streaming experience by enabling text selection on video streaming sites that utilize the JW Player, such as Vidstream and fmovies. This ultra-minimalistic browser extension allows you to select and interact with text within the video player. Use it to conveniently translate text or view word definitions using external tools like Google Dictionary. This extension works across a variety of websites, making your language and learning needs easily accessible while enjoying your favorite movies.
+**Description:** Enhance your movie streaming experience by enabling text selection on video streaming sites that utilize the JW Player, such as Vidstream and fmovies. This ultra-minimalistic browser extension allows you to select and interact with text within the video player.
+
+Use it to conveniently translate text or view word definitions using external tools like [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) or [DeepL extensions](https://www.deepl.com/es/chrome-extension). This extension works across a variety of websites, making your language and learning needs easily accessible while enjoying your favorite movies.
 
 ---
 
